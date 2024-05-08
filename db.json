@@ -14,13 +14,13 @@
         },
         {
             "nazwaRzeczy": "Zadanie domowe",
-            "priorytet": 0,
+            "priorytet": 2,
             "data": "05-05-2024",
             "zrealizowane": "tak"
         },
         {
             "nazwaRzeczy": "Prawo jazdy",
-            "priorytet": 2,
+            "priorytet": 3,
             "data": "08-10-2024",
             "zrealizowane": "nie"
         }
