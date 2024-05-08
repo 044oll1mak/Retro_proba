@@ -4,25 +4,25 @@
             "nazwaRzeczy": "Projekt ze szkoły",
             "priorytet": 0,
             "data": "09-05-2024",
-            "zrealizowane": "nie",
+            "zrealizowane": "nie"
         },
         {
             "nazwaRzeczy": "Zakupy",
             "priorytet": 1,
             "data": "14-05-2024",
-            "zrealizowane": "nie",
+            "zrealizowane": "nie"
         },
         {
             "nazwaRzeczy": "Zadanie domowe",
             "priorytet": 0,
             "data": "05-05-2024",
-            "zrealizowane": "tak",
+            "zrealizowane": "tak"
         },
         {
             "nazwaRzeczy": "Prawo jazdy",
             "priorytet": 2,
             "data": "08-10-2024",
-            "zrealizowane": "nie",
+            "zrealizowane": "nie"
         }
     ]
 }
