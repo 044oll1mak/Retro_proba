@@ -8,19 +8,19 @@
         },
         {
             "nazwaRzeczy": "Zakupy",
-            "priorytet": 1,
+            "priorytet": 0,
             "data": "14-05-2024",
             "zrealizowane": "nie"
         },
         {
             "nazwaRzeczy": "Zadanie domowe",
-            "priorytet": 2,
+            "priorytet": 1,
             "data": "05-05-2024",
             "zrealizowane": "tak"
         },
         {
             "nazwaRzeczy": "Prawo jazdy",
-            "priorytet": 3,
+            "priorytet": 2,
             "data": "08-10-2024",
             "zrealizowane": "nie"
         }
